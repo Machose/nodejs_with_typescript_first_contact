@@ -1,3 +1,3 @@
-const a: number = 5;
+import App from './app';
 
-console.log(a + 6);
+App.listen(3333);
